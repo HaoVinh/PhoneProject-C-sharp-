@@ -1,0 +1,138 @@
+D:\Visual Studio\Project\MobileStore\bin\Debug\net7.0-windows\MobileStore.exe
+D:\Visual Studio\Project\MobileStore\bin\Debug\net7.0-windows\MobileStore.deps.json
+D:\Visual Studio\Project\MobileStore\bin\Debug\net7.0-windows\MobileStore.runtimeconfig.json
+D:\Visual Studio\Project\MobileStore\bin\Debug\net7.0-windows\MobileStore.dll
+D:\Visual Studio\Project\MobileStore\bin\Debug\net7.0-windows\MobileStore.pdb
+D:\Visual Studio\Project\MobileStore\obj\Debug\net7.0-windows\MobileStore.csproj.GenerateResource.cache
+D:\Visual Studio\Project\MobileStore\obj\Debug\net7.0-windows\MobileStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Project\MobileStore\obj\Debug\net7.0-windows\MobileStore.AssemblyInfoInputs.cache
+D:\Visual Studio\Project\MobileStore\obj\Debug\net7.0-windows\MobileStore.AssemblyInfo.cs
+D:\Visual Studio\Project\MobileStore\obj\Debug\net7.0-windows\MobileStore.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Project\MobileStore\obj\Debug\net7.0-windows\MobileStore.dll
+D:\Visual Studio\Project\MobileStore\obj\Debug\net7.0-windows\refint\MobileStore.dll
+D:\Visual Studio\Project\MobileStore\obj\Debug\net7.0-windows\MobileStore.pdb
+D:\Visual Studio\Project\MobileStore\obj\Debug\net7.0-windows\MobileStore.genruntimeconfig.cache
+D:\Visual Studio\Project\MobileStore\obj\Debug\net7.0-windows\ref\MobileStore.dll
+D:\Visual Studio\Project\MobileStore\obj\Debug\net7.0-windows\MobileStore.brandForm.resources
+D:\Visual Studio\Project\MobileStore\obj\Debug\net7.0-windows\MobileStore.categoryForm.resources
+D:\Visual Studio\Project\MobileStore\obj\Debug\net7.0-windows\MobileStore.employeeForm.resources
+D:\Visual Studio\Project\MobileStore\obj\Debug\net7.0-windows\MobileStore.orderDetailsForm.resources
+D:\Visual Studio\Project\MobileStore\obj\Debug\net7.0-windows\MobileStore.GUI.employeeLoginForm.resources
+D:\Visual Studio\Project\MobileStore\obj\Debug\net7.0-windows\MobileStore.GUI.ordDetailForm.resources
+D:\Visual Studio\Project\MobileStore\obj\Debug\net7.0-windows\MobileStore.Properties.Resources.resources
+C:\Users\Dell\Documents\Zalo Received Files\MobileStore\bin\Debug\net7.0-windows\MobileStore.exe
+C:\Users\Dell\Documents\Zalo Received Files\MobileStore\bin\Debug\net7.0-windows\MobileStore.deps.json
+C:\Users\Dell\Documents\Zalo Received Files\MobileStore\bin\Debug\net7.0-windows\MobileStore.runtimeconfig.json
+C:\Users\Dell\Documents\Zalo Received Files\MobileStore\bin\Debug\net7.0-windows\MobileStore.dll
+C:\Users\Dell\Documents\Zalo Received Files\MobileStore\bin\Debug\net7.0-windows\MobileStore.pdb
+C:\Users\Dell\Documents\Zalo Received Files\MobileStore\obj\Debug\net7.0-windows\MobileStore.GUI.accountForm.resources
+C:\Users\Dell\Documents\Zalo Received Files\MobileStore\obj\Debug\net7.0-windows\MobileStore.brandForm.resources
+C:\Users\Dell\Documents\Zalo Received Files\MobileStore\obj\Debug\net7.0-windows\MobileStore.categoryForm.resources
+C:\Users\Dell\Documents\Zalo Received Files\MobileStore\obj\Debug\net7.0-windows\MobileStore.GUI.customerForm.resources
+C:\Users\Dell\Documents\Zalo Received Files\MobileStore\obj\Debug\net7.0-windows\MobileStore.employeeForm.resources
+C:\Users\Dell\Documents\Zalo Received Files\MobileStore\obj\Debug\net7.0-windows\MobileStore.GUI.employeeLoginForm.resources
+C:\Users\Dell\Documents\Zalo Received Files\MobileStore\obj\Debug\net7.0-windows\MobileStore.GUI.loginForm.resources
+C:\Users\Dell\Documents\Zalo Received Files\MobileStore\obj\Debug\net7.0-windows\MobileStore.GUI.ordDetailForm.resources
+C:\Users\Dell\Documents\Zalo Received Files\MobileStore\obj\Debug\net7.0-windows\MobileStore.GUI.productForm.resources
+C:\Users\Dell\Documents\Zalo Received Files\MobileStore\obj\Debug\net7.0-windows\MobileStore.GUI.supplierForm.resources
+C:\Users\Dell\Documents\Zalo Received Files\MobileStore\obj\Debug\net7.0-windows\MobileStore.Properties.Resources.resources
+C:\Users\Dell\Documents\Zalo Received Files\MobileStore\obj\Debug\net7.0-windows\MobileStore.csproj.GenerateResource.cache
+C:\Users\Dell\Documents\Zalo Received Files\MobileStore\obj\Debug\net7.0-windows\MobileStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\Zalo Received Files\MobileStore\obj\Debug\net7.0-windows\MobileStore.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\Zalo Received Files\MobileStore\obj\Debug\net7.0-windows\MobileStore.AssemblyInfo.cs
+C:\Users\Dell\Documents\Zalo Received Files\MobileStore\obj\Debug\net7.0-windows\MobileStore.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\Zalo Received Files\MobileStore\obj\Debug\net7.0-windows\MobileStore.dll
+C:\Users\Dell\Documents\Zalo Received Files\MobileStore\obj\Debug\net7.0-windows\refint\MobileStore.dll
+C:\Users\Dell\Documents\Zalo Received Files\MobileStore\obj\Debug\net7.0-windows\MobileStore.pdb
+C:\Users\Dell\Documents\Zalo Received Files\MobileStore\obj\Debug\net7.0-windows\MobileStore.genruntimeconfig.cache
+C:\Users\Dell\Documents\Zalo Received Files\MobileStore\obj\Debug\net7.0-windows\ref\MobileStore.dll
+C:\Users\Dell\Documents\Zalo Received Files\MobileStore\obj\Debug\net7.0-windows\MobileStore.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\Zalo Received Files\MobileStore\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\Dell\Documents\Zalo Received Files\MobileStore\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Dell\Documents\Zalo Received Files\MobileStore\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Dell\Documents\Zalo Received Files\MobileStore\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Dell\Documents\Zalo Received Files\MobileStore\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dell\Documents\Zalo Received Files\MobileStore\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dell\Documents\Zalo Received Files\MobileStore\obj\Debug\net7.0-windows\MobileStore.csproj.CopyComplete
+C:\Users\Dell\Documents\Zalo Received Files\MobileStore\bin\Debug\net7.0-windows\MobileStore.dll.config
+C:\Users\Dell\Documents\Zalo Received Files\MobileStore\obj\Debug\net7.0-windows\MobileStore.GUI.orderForm.resources
+C:\Users\Dell\Documents\Zalo Received Files\MobileStore\obj\Debug\net7.0-windows\MobileStore.GUI.importDetailForm.resources
+C:\Users\Dell\Documents\Zalo Received Files\MobileStore\obj\Debug\net7.0-windows\MobileStore.GUI.importForm.resources
+C:\Users\Dell\Documents\Zalo Received Files\MobileStore\obj\Debug\net7.0-windows\MobileStore.GUI.importProForm.resources
+C:\Users\Dell\Documents\Zalo Received Files\MobileStore\obj\Debug\net7.0-windows\MobileStore.GUI.sellForm.resources
+C:\Users\Dell\Documents\Zalo Received Files\MobileStore\obj\Debug\net7.0-windows\MobileStore.GUI.adminLoginForm.resources
+C:\Users\Dell\Documents\Zalo Received Files\MobileStore\bin\Debug\net7.0-windows\Microsoft.Office.Interop.Excel.dll
+C:\Users\Dell\Documents\Zalo Received Files\MobileStore\bin\Debug\net7.0-windows\EPPlus.dll
+C:\Users\Dell\Documents\Zalo Received Files\MobileStore\bin\Debug\net7.0-windows\EPPlus.Interfaces.dll
+C:\Users\Dell\Documents\Zalo Received Files\MobileStore\bin\Debug\net7.0-windows\EPPlus.System.Drawing.dll
+C:\Users\Dell\Documents\Zalo Received Files\MobileStore\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Dell\Documents\Zalo Received Files\MobileStore\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Dell\Documents\Zalo Received Files\MobileStore\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Dell\Documents\Zalo Received Files\MobileStore\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Dell\Documents\Zalo Received Files\MobileStore\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Dell\Documents\Zalo Received Files\MobileStore\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Dell\Documents\Zalo Received Files\MobileStore\bin\Debug\net7.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Dell\Documents\Zalo Received Files\MobileStore\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Dell\Documents\Zalo Received Files\MobileStore\bin\Debug\net7.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Dell\Documents\Zalo Received Files\MobileStore\bin\Debug\net7.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\Dell\Documents\Zalo Received Files\MobileStore\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Dell\Documents\Zalo Received Files\MobileStore\obj\Debug\net7.0-windows\MobileStore.GUI.loadingScreenForm.resources
+C:\Users\Dell\Documents\Zalo Received Files\MobileStore\obj\Debug\net7.0-windows\MobileStore.GUI.reportForm.resources
+C:\Users\Dell\Downloads\MobileStore\bin\Debug\net7.0-windows\MobileStore.exe
+C:\Users\Dell\Downloads\MobileStore\bin\Debug\net7.0-windows\MobileStore.dll.config
+C:\Users\Dell\Downloads\MobileStore\bin\Debug\net7.0-windows\MobileStore.deps.json
+C:\Users\Dell\Downloads\MobileStore\bin\Debug\net7.0-windows\MobileStore.runtimeconfig.json
+C:\Users\Dell\Downloads\MobileStore\bin\Debug\net7.0-windows\MobileStore.dll
+C:\Users\Dell\Downloads\MobileStore\bin\Debug\net7.0-windows\MobileStore.pdb
+C:\Users\Dell\Downloads\MobileStore\bin\Debug\net7.0-windows\EPPlus.dll
+C:\Users\Dell\Downloads\MobileStore\bin\Debug\net7.0-windows\EPPlus.Interfaces.dll
+C:\Users\Dell\Downloads\MobileStore\bin\Debug\net7.0-windows\EPPlus.System.Drawing.dll
+C:\Users\Dell\Downloads\MobileStore\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Dell\Downloads\MobileStore\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Dell\Downloads\MobileStore\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Dell\Downloads\MobileStore\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Dell\Downloads\MobileStore\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Dell\Downloads\MobileStore\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Dell\Downloads\MobileStore\bin\Debug\net7.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Dell\Downloads\MobileStore\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Dell\Downloads\MobileStore\bin\Debug\net7.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Dell\Downloads\MobileStore\bin\Debug\net7.0-windows\Microsoft.Office.Interop.Excel.dll
+C:\Users\Dell\Downloads\MobileStore\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\Dell\Downloads\MobileStore\bin\Debug\net7.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\Dell\Downloads\MobileStore\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Dell\Downloads\MobileStore\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Dell\Downloads\MobileStore\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Dell\Downloads\MobileStore\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dell\Downloads\MobileStore\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dell\Downloads\MobileStore\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Dell\Downloads\MobileStore\obj\Debug\net7.0-windows\MobileStore.csproj.AssemblyReference.cache
+C:\Users\Dell\Downloads\MobileStore\obj\Debug\net7.0-windows\MobileStore.GUI.accountForm.resources
+C:\Users\Dell\Downloads\MobileStore\obj\Debug\net7.0-windows\MobileStore.GUI.adminLoginForm.resources
+C:\Users\Dell\Downloads\MobileStore\obj\Debug\net7.0-windows\MobileStore.brandForm.resources
+C:\Users\Dell\Downloads\MobileStore\obj\Debug\net7.0-windows\MobileStore.categoryForm.resources
+C:\Users\Dell\Downloads\MobileStore\obj\Debug\net7.0-windows\MobileStore.GUI.customerForm.resources
+C:\Users\Dell\Downloads\MobileStore\obj\Debug\net7.0-windows\MobileStore.employeeForm.resources
+C:\Users\Dell\Downloads\MobileStore\obj\Debug\net7.0-windows\MobileStore.GUI.employeeLoginForm.resources
+C:\Users\Dell\Downloads\MobileStore\obj\Debug\net7.0-windows\MobileStore.GUI.importDetailForm.resources
+C:\Users\Dell\Downloads\MobileStore\obj\Debug\net7.0-windows\MobileStore.GUI.importForm.resources
+C:\Users\Dell\Downloads\MobileStore\obj\Debug\net7.0-windows\MobileStore.GUI.importProForm.resources
+C:\Users\Dell\Downloads\MobileStore\obj\Debug\net7.0-windows\MobileStore.GUI.loadingScreenForm.resources
+C:\Users\Dell\Downloads\MobileStore\obj\Debug\net7.0-windows\MobileStore.GUI.loginForm.resources
+C:\Users\Dell\Downloads\MobileStore\obj\Debug\net7.0-windows\MobileStore.GUI.ordDetailForm.resources
+C:\Users\Dell\Downloads\MobileStore\obj\Debug\net7.0-windows\MobileStore.GUI.orderForm.resources
+C:\Users\Dell\Downloads\MobileStore\obj\Debug\net7.0-windows\MobileStore.GUI.productForm.resources
+C:\Users\Dell\Downloads\MobileStore\obj\Debug\net7.0-windows\MobileStore.GUI.reportForm.resources
+C:\Users\Dell\Downloads\MobileStore\obj\Debug\net7.0-windows\MobileStore.GUI.sellForm.resources
+C:\Users\Dell\Downloads\MobileStore\obj\Debug\net7.0-windows\MobileStore.GUI.supplierForm.resources
+C:\Users\Dell\Downloads\MobileStore\obj\Debug\net7.0-windows\MobileStore.Properties.Resources.resources
+C:\Users\Dell\Downloads\MobileStore\obj\Debug\net7.0-windows\MobileStore.csproj.GenerateResource.cache
+C:\Users\Dell\Downloads\MobileStore\obj\Debug\net7.0-windows\MobileStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Downloads\MobileStore\obj\Debug\net7.0-windows\MobileStore.AssemblyInfoInputs.cache
+C:\Users\Dell\Downloads\MobileStore\obj\Debug\net7.0-windows\MobileStore.AssemblyInfo.cs
+C:\Users\Dell\Downloads\MobileStore\obj\Debug\net7.0-windows\MobileStore.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\MobileStore\obj\Debug\net7.0-windows\MobileStore.csproj.CopyComplete
+C:\Users\Dell\Downloads\MobileStore\obj\Debug\net7.0-windows\MobileStore.dll
+C:\Users\Dell\Downloads\MobileStore\obj\Debug\net7.0-windows\refint\MobileStore.dll
+C:\Users\Dell\Downloads\MobileStore\obj\Debug\net7.0-windows\MobileStore.pdb
+C:\Users\Dell\Downloads\MobileStore\obj\Debug\net7.0-windows\MobileStore.genruntimeconfig.cache
+C:\Users\Dell\Downloads\MobileStore\obj\Debug\net7.0-windows\ref\MobileStore.dll
